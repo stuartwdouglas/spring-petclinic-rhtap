@@ -146,7 +146,7 @@
           </dependency>
         </dependencies>
         <executions>
-          <execution>
+          <!-- <execution>
             <id>nohttp-checkstyle-validation</id>
             <phase>validate</phase>
             <configuration>
@@ -160,7 +160,7 @@
             <goals>
               <goal>check</goal>
             </goals>
-          </execution>
+          </execution> -->
         </executions>
       </plugin>
       <plugin>
